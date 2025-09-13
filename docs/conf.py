@@ -1,4 +1,4 @@
-project = 'pcmatichelp'
+project = 'docpcmatic'
 author = 'Your Name'
 release = '1.0'
 
